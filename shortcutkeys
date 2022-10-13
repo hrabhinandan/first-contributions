@@ -1,0 +1,25 @@
+file Commands 
+ls 
+ls-al
+cd dir
+cd
+pwd
+mkdir dir
+rm file
+rm -r dir
+rm -f file
+rm -r dir
+rm -rf dir
+-rf dir
+filel file1 file2
+ln -s file link
+touch file
+cat>file
+more file
+head file
+tail file
+tail -f file
+
+SSH
+ssh user@host
+ssh-copy-id user@host
